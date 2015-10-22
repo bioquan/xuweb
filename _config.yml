@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+baseurl: /xuweb
+author: Spring
+pygments: true
+paginate: 24
